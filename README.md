@@ -5,9 +5,7 @@ A simple example that shows how to create an <strong><i>Intelligent Switch State
 
 <h2><strong>{ RUN THE EXAMPLE }</strong></h2>
 
-<code>
- <pre>cd bin && java SwitchStatement</pre>
-</code>
+<p><code><pre>cd bin && java SwitchStatement</pre></code></p><br>
 
 
 <h2><strong>{ COMMENTS }</strong></h2>
@@ -15,7 +13,7 @@ A simple example that shows how to create an <strong><i>Intelligent Switch State
 <p>After running the example, please tell me (by writing me an email at the address below) what you think
 about it, and if you had a better solution to show to everyone.</p>
 
-Email:  minen.petricig@gmail.com
+Email:  minen.petricig@gmail.com<br><br>
 
 
 <h2><strong>{ CONTACTS }</strong></h2>
@@ -27,13 +25,14 @@ Email:  minen.petricig@gmail.com
   <tr>
     <td>@Website</td>	<td>https://aleksejpetricig.wordpress.com/contatti</td>
   </tr>
-</table>
+</table><br>
 
-
+<div>
 <h2><strong>{ SOURCES }<strong></h2>
 
-<table>
+<table style="border:none;">
   <tr>
-    <td>@Github</td> <td>https://github.com/Alek6/Intelligent-Switch-Statement/edit/master/</td>
+    <td>@Github</td> <td>https://github.com/Alek6/Intelligent-Switch-Statement/</td>
   </tr>
 </table>
+<div>
