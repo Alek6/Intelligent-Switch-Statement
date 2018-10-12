@@ -9,7 +9,6 @@ A simple example that shows how to create an <strong><i>Intelligent Switch State
  <pre>cd bin && java SwitchStatement</pre>
 </code>
 
-<hr>
 
 <h2><strong>{ COMMENTS }</strong></h2>
 
@@ -18,7 +17,6 @@ about it, and if you had a better solution to show to everyone.</p>
 
 Email:  minen.petricig@gmail.com
 
-<hr>
 
 <h2><strong>{ CONTACTS }</strong></h2>
 
@@ -31,7 +29,6 @@ Email:  minen.petricig@gmail.com
   </tr>
 </table>
 
-<hr>
 
 <h2><strong>{ SOURCES }<strong></h2>
 
