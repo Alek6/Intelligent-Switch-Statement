@@ -5,12 +5,12 @@ A simple example that shows how to create an <strong><i>Intelligent Switch State
 <br>
 
 <div>
-  <h2 style="border-bottom:none;"><strong>{ RUN THE EXAMPLE }</strong></h2>
+  <h2><strong>RUN THE EXAMPLE</strong></h2>
   <p><pre>cd bin && java SwitchStatement</pre></p>
 </div>
 
 <div>
-  <h2 style="border-bottom:none;"><strong>{ COMMENTS }</strong></h2>
+  <h2><strong>COMMENTS</strong></h2>
   <p>After running the example, please tell me (by writing me an email at the address below) what you think
      about it, and if you had a better solution to show to everyone.</p>
   <table style="border:none;">
@@ -21,7 +21,7 @@ A simple example that shows how to create an <strong><i>Intelligent Switch State
 </div>
 
 <div>
-  <h2 style="border-bottom:none;"><strong>{ CONTACTS }</strong></h2>
+  <h2><strong>CONTACTS</strong></h2>
   <table>
     <tr>
       <td>@Author</td>	<td>ALEKSEJ PETRTICIG</td>
