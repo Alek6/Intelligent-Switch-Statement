@@ -31,12 +31,3 @@ A simple example that shows how to create an <strong><i>Intelligent Switch State
     </tr>
   </table>
 </div>
-
-<div>
-  <h2 style="border-bottom:none;"><strong>{ SOURCES }<strong></h2>
-  <table style="border:none;">
-    <tr>
-      <td>@Github</td> <td>https://github.com/Alek6/Intelligent-Switch-Statement/</td>
-    </tr>
-  </table>
-</div>
