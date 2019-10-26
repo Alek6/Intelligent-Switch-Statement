@@ -24,10 +24,10 @@ A simple example that shows how to create an <strong><i>Intelligent Switch State
   <h2><strong>CONTACTS</strong></h2>
   <table>
     <tr>
-      <td>@Author</td>	<td>ALEKSEJ PETRTICIG</td>
+      <td>@Author</td>	<td>ALEKSEJ PETRICIG</td>
     </tr>
     <tr>
-      <td>@Website</td>	<td>https://aleksejpetricig.wordpress.com/contatti</td>
+      <td>@Website</td>	<td><a href="https://aleksejpetricig.wordpress.com/contatti">aleksejpetricig.wordpress.com/contacts</a></td>
     </tr>
   </table>
 </div>
