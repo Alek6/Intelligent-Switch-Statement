@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e1fed28-1603-4a9c-a40a-1b35106fd365" name="Default Changelist" comment="">
+    <list default="true" id="3e1fed28-1603-4a9c-a40a-1b35106fd365" name="Default Changelist" comment="File &amp; Class name changed.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnimalTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntelligentSwitchStatement.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +26,13 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bin" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,6 +46,15 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="IntelligentSwitchStatement" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/IntelligentSwitchStatement.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -46,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572078278128</updated>
       <workItem from="1572078279415" duration="603000" />
+      <workItem from="1572689500826" duration="1596000" />
     </task>
     <task id="LOCAL-00001" summary="Change of the 'Contacts' information and load of unversioned project's files.">
       <created>1572078547535</created>
@@ -65,7 +86,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

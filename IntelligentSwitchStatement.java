@@ -9,7 +9,7 @@ interface AnimalTypes {
     static final String DOMESTIC = "domestic";
 }
 
-public class SwitchStatement implements AnimalTypes {
+public class IntelligentSwitchStatement implements AnimalTypes {
 
     // Main
     public static void main(final String... doYourBest) {
